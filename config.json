@@ -1,0 +1,11 @@
+{
+  "private_key": [ "YOUR_PRIVATE_KEY" ],
+  "num_swaps": 3,
+  "min_swap_amount": 0.01,
+  "max_swap_amount": 1.0,
+  "tokens": [
+    "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh"
+  ]
+}
